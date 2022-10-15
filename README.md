@@ -1,10 +1,10 @@
 <div id="header" align="center"> 
     <img src="https://media1.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e47dqutohv8hmquk8nhz6oxd26cconwddc490ptwni5&rid=giphy.gif&ct=g" />
     <div id="badges">
-        <a href="your-linkedin-URL">
+        <a href="https://www.linkedin.com/in/johnny-lozano/">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
         </a>
-        <a href="your-youtube-URL">
+        <a href="https://johnnylozano.dev">
             <img src="https://img.shields.io/badge/-Website-blue?style=for-the-badge" alt="Website Badge"/>
         </a>
     </div>
