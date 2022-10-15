@@ -1,5 +1,5 @@
 <div id="header" align="center"> 
-    <img src="https://github.com/itsdew/Live-in-Action/blob/main/Actions/techstack.gif" />
+    <img src="https://mograph.video/2KKEY7g" />
     <div id="badges">
         <a href="https://www.linkedin.com/in/johnny-lozano/" target="_blank">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
