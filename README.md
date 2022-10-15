@@ -1,5 +1,5 @@
 <div id="header" align="center"> 
-    <img src="https://camo.githubusercontent.com/667a1b5f72fd3bea2f990da4a75cd30b92899281133f8b3cd2d9d6dbfe3d39b2/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e676966" />
+    <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" />
     <div id="badges">
         <a href="https://www.linkedin.com/in/johnny-lozano/" target="_blank">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
