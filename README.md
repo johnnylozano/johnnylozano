@@ -51,4 +51,4 @@ I am a Frontend Developer (Node/React) <img src="https://media.giphy.com/media/W
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=johnnylozano&theme=onedark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnny-lozano&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnylozano&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
