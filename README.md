@@ -21,11 +21,12 @@
 
 ### :man_technologist: About Me :
 I am a Frontend Developer (Node/React) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- :telescope: I’m contributing to frontend development for building web applications.
+- 🎓 I am a Computer Engineering major currently studying embedded systems
+- 🤔 &nbsp; I love learning and exploring Web Development  
+- 🌱 &nbsp; Learning more about 
+Android Development and Machine Learning.
 
-- :seedling: Learning and Exploring AI/Neural Networking Technology
-
-- :zap: In my free time, I play rock and metal on the guitar
+- :zap: I love coffee and playing rock/metal on the guitar! 🎸
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Johnny-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/johnny-lozano/)
 
