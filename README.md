@@ -21,8 +21,8 @@
 
 ### :man_technologist: About Me :
 I am a Frontend Developer (Node/React) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🎓 I am a Computer Engineering major currently studying embedded systems
-- 🤔 &nbsp; I love learning and exploring Web Development  
+- 🎓 I am a Computer Engineering major currently studying computer hardware and software.
+- 💓 &nbsp; Exploring new Web Development technologies and developing software applications. 
 - 🌱 &nbsp; Learning more about 
 Android Development and Machine Learning.
 
