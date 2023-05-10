@@ -23,7 +23,7 @@
 ### :man_technologist: About Me :
 I am a Computer Engineering graduate with a strong interest in Embedded Systems Development and experience in frontend development (React) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🎓 B.S. in Computer Engineering.
-- 💓 Passionate about embedded systems, IoT, and automotive applications.
+- 💓 Passionate about embedded systems and IoT, focusing on applications in ground and aerial vehicles
 - 🌱 Continuously learning and exploring new technologies in embedded development, real-time systems, and low-level programming.
 - 🚀 Aiming to contribute my skills to challenging projects that span across various industries and applications.
 - ⚡ In my free time, I enjoy sipping coffee and playing music on the guitar. 🎸
