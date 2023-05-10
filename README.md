@@ -19,11 +19,11 @@
 </div>
 
 ---
-
+-->
 ### :man_technologist: About Me :
 I am a Frontend Developer (Node/React) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🎓 I am a Computer Engineering major currently studying computer hardware and software.
-- 💓 Exploring new Web Development technologies and developing software applications. 
+- 🎓 B.S. in Computer Engineering.
+- 💓 Passionate about embedded and IoT. 
 - 🌱 Learning more about 
 Android Development and Machine Learning.
 
@@ -32,7 +32,7 @@ Android Development and Machine Learning.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Johnny-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/johnny-lozano/)
 
 ---
-
+<!--
 ### :hammer_and_wrench: Languages and Tools :
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/>&nbsp;
