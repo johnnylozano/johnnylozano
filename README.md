@@ -20,6 +20,8 @@
 
 ---
 -->
+
+<!--
 ### :man_technologist: About Me :
 I am a Computer Engineering graduate with a strong interest in Embedded Systems Development and experience in frontend development (React) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🎓 B.S. in Computer Engineering and B.S. in Engineering Science.
@@ -31,6 +33,8 @@ I am a Computer Engineering graduate with a strong interest in Embedded Systems 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Johnny-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/johnny-lozano/)
 
 ---
+-->
+
 <!--
 ### :hammer_and_wrench: Languages and Tools :
 <div>
